@@ -1,4 +1,4 @@
 EndlessRunner
 =============
 
-Runner
+Endless runner sample code using Corona SDK
